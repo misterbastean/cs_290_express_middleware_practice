@@ -1,6 +1,6 @@
 # Instructions
 
-Clone this repo to your local machine [click here if you're not sure how to do this](https://youtu.be/c4b1MjJclBU). Then complete the following two activities.
+Clone this repo to your local machine [click here if you're not sure how to do this](https://youtu.be/zwoWIQyg5rc). Then complete the following two activities.
 
 ## Add User Middleware
 
